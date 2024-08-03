@@ -11,6 +11,8 @@ using OpenAI.Chat;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.AddServiceDefaults();
+
 builder.Services.AddHttpClient<IYouTubeVideo, YouTubeVideo>();
 builder.Services.AddScoped<AzureOpenAIClient>(sp =>
 {
@@ -30,6 +32,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+app.MapDefaultEndpoints();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
