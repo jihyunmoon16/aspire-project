@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{78EA217F-706F-4D74-B6A8-31259014EB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireYouTubeSummariser.WebApp", "frontend\AspireYouTubeSummariser.WebApp\AspireYouTubeSummariser.WebApp.csproj", "{D7713939-65DB-4090-9648-37B38A6BBB00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{B792F999-8EB5-472A-B37B-667BE35B00E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireYouTubeSummariser.ApiApp", "backend\AspireYouTubeSummariser.ApiApp\AspireYouTubeSummariser.ApiApp.csproj", "{4D6372BF-B118-4B05-8CEA-C58A9A9AB526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7713939-65DB-4090-9648-37B38A6BBB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7713939-65DB-4090-9648-37B38A6BBB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7713939-65DB-4090-9648-37B38A6BBB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7713939-65DB-4090-9648-37B38A6BBB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6372BF-B118-4B05-8CEA-C58A9A9AB526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6372BF-B118-4B05-8CEA-C58A9A9AB526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6372BF-B118-4B05-8CEA-C58A9A9AB526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6372BF-B118-4B05-8CEA-C58A9A9AB526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D7713939-65DB-4090-9648-37B38A6BBB00} = {78EA217F-706F-4D74-B6A8-31259014EB1E}
+		{4D6372BF-B118-4B05-8CEA-C58A9A9AB526} = {B792F999-8EB5-472A-B37B-667BE35B00E0}
+	EndGlobalSection
+EndGlobal
