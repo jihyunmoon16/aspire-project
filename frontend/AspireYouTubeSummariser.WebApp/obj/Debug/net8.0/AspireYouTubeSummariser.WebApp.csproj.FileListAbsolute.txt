@@ -56,3 +56,4 @@ C:\Users\moonc\Desktop\aspire-project\frontend\AspireYouTubeSummariser.WebApp\ob
 C:\Users\moonc\Desktop\aspire-project\frontend\AspireYouTubeSummariser.WebApp\obj\Debug\net8.0\AspireYouTubeSummariser.WebApp.pdb
 C:\Users\moonc\Desktop\aspire-project\frontend\AspireYouTubeSummariser.WebApp\obj\Debug\net8.0\AspireYouTubeSummariser.WebApp.genruntimeconfig.cache
 C:\Users\moonc\Desktop\aspire-project\frontend\AspireYouTubeSummariser.WebApp\obj\Debug\net8.0\ref\AspireYouTubeSummariser.WebApp.dll
+C:\Users\moonc\Desktop\aspire-project\frontend\AspireYouTubeSummariser.WebApp\obj\Debug\net8.0\AspireYouTubeSummariser.WebApp.sourcelink.json

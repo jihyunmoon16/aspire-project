@@ -31,3 +31,12 @@ C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\obj
 C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\obj\Debug\net8.0\AspireYouTubeSummariser.ApiApp.pdb
 C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\obj\Debug\net8.0\AspireYouTubeSummariser.ApiApp.genruntimeconfig.cache
 C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\obj\Debug\net8.0\ref\AspireYouTubeSummariser.ApiApp.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\Aliencube.YouTubeSubtitlesExtractor.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\Azure.AI.OpenAI.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\OpenAI.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\moonc\Desktop\aspire-project\backend\AspireYouTubeSummariser.ApiApp\obj\Debug\net8.0\AspireYouTubeSummariser.ApiApp.sourcelink.json
